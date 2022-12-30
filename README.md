@@ -12,6 +12,7 @@ Load Balancers Vizualized - Round Robin Distrubution of Client Requests
 ![image info](https://github.com/JRyanEv/AWS_Project/blob/main/Load%20Balancer%20Concept.PNG)
 
 The TODO Application is Live
+
 ![image info](https://github.com/JRyanEv/AWS_Project/blob/main/Working%20Application.PNG)
 
 mySQL Database is Functional
