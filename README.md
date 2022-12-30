@@ -12,11 +12,11 @@ Load Balancers Vizualized - Round Robin Distrubution of Client Requests
 ![image info](https://github.com/JRyanEv/AWS_Project/blob/main/Load%20Balancer%20Concept.PNG)
 
 The TODO Application is Live
-
 ![image info](https://github.com/JRyanEv/AWS_Project/blob/main/Working%20Application.PNG)
 
 mySQL Database is Functional
 ![image info](https://github.com/JRyanEv/AWS_Project/blob/main/SQL%20Workbench%20TODO%20Queries.PNG)
+
 
 Tomcat War File Deployed 
 ![image info](https://github.com/JRyanEv/AWS_Project/blob/main/Deployment%20war%20tomcat.PNG)
