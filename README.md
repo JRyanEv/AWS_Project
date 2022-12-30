@@ -18,4 +18,4 @@ mySQL Database is Functional
 ![image info](https://github.com/JRyanEv/AWS_Project/blob/main/SQL%20Workbench%20TODO%20Queries.PNG)
 
 Tomcat War File Deployed 
-https://github.com/JRyanEv/AWS_Project/blob/main/Deployment%20war%20tomcat.PNG
+![image info](https://github.com/JRyanEv/AWS_Project/blob/main/Deployment%20war%20tomcat.PNG)
